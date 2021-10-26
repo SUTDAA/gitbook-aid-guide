@@ -1,6 +1,6 @@
 # Create Metamask Account
 
-This tutorial will be tailored to the browser version of metamask. We recommend using the browser over the phone applications because they are known to be pretty buggy. If you do still choose to use the phone applications, the steps will still be the same.
+This tutorial will be tailored to the browser version of metamask. We recommend using the browser over the phone applications because they are known to be pretty buggy. If you do still choose to use the phone applications, the steps will be similar.
 
 
 

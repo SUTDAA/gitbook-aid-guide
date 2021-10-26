@@ -8,20 +8,20 @@ All donations to initiatives are represented by AID tokens
 
 When you donate to an initiative, the corresponding AID tokens will be assigned to the initiative, while the actual cash will be held in escrow by the Alumni Association.
 
-Once the initiative fulfills their deliverables, the cash donation, together with the AID tokens, will be released to them. This transaction will be tracked on the blockchain, allowing it to be viewed and verified by anyone.
+Once the initiative fulfils their deliverables, the cash donation, together with the AID tokens, will be released to them. This transaction will be tracked on the blockchain, allowing it to be viewed and verified by anyone.
 
 {% hint style="info" %}
-There is a 10% fee taken from each donation which will contribute to the SUTDAA fund
+There is a 10% from each donation which will contributed to the general SUTDAA fund in order to ensure there is sufficient operational revenue for initiatives.
 {% endhint %}
 
 ### &#x20;Why wait to release the funds?
 
-There was a lot of internal debate about whether the funds should be released immediately on donation, or whether it should be held by the association until the deliverables were met. Ultimately, we came to the conclusion that the latter would be for the best. The reasons are as follow:
+Your donations and contributions are of the utmost important to SUTDAA. As we cannot guarantee that every initiative would be seen through to the end, we want to ensure that your funds are used according to its intent.&#x20;
 
-* Not everyone follows through. As much as we would love to, we cannot guarantee that every initiative would be seen through to the end. Sometimes, projects get abandoned or neglected and no progress is made for a very long time. We want to avoid a situation in which the initiative receives your donations and does nothing with it.
+Sometimes, projects get abandoned or neglected and no progress is made for a very long time. We want to avoid a situation in which the initiative receives your donations and does nothing with it when other project might need it more or have shown progress and deserve more support.
 
 
 
-### Why is there a fee on donations?
+### Why is there a general fund?
 
-There are costs related to running AA Aid along with other SUTDAA infrastructure. This is a way for us to keep the lights on and all fees will go towards running activities and events for the SUTD alumni. In return, we are able to keep membership to the association free for all alumni!
+There are costs related to running AA Aid along with other SUTDAA infrastructure. This is a way for us to keep the lights on and all funds will go towards running activities and events for the SUTD ecosystem. We do not want to go the traditional one-size-fits-all method of a standard 'membership' fee as it is antithetical to the tools that we can now use as we design a better SUTD ecosystem.

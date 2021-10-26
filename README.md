@@ -1,4 +1,5 @@
 ---
+description: The heart of an organisation lies in its vision, mission, and values.
 cover: >-
   https://images.unsplash.com/photo-1552664730-d307ca884978?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2970&q=80
 coverY: 0
@@ -8,20 +9,36 @@ coverY: 0
 
 ## Our Vision
 
+To create an ecosystem that we are proud to be a part of by amplifying the best of SUTD's culture.
+
+## Our mission
+
+To empower members of SUTD's ecosystem to inspire, grow, and sustain our community's projects.
+
+## Our Objectives
+
 As members of the SUTD community, we are taught to design and build innovative products, to dive in and explore things that interest us, and to use our knowledge to creatively problem-solve. Unsurprisingly, a common blocker that many of us face is a lack of funding. In order to foster a greater culture of exploration and building, the SUTD Alumni Association has came up with AA-Aid - an open-source platform that supports SUTD's growing ecosystem through project funding.
 
 This platform aims to solve the common issues of project funding, namely, accountability, transparency, and longevity. As donors ourselves, we understand how futile it might feel to donate to a cause and not know what your money might be used for, or how much of it even went towards the cause. On the project side, many projects simply become one and done, with throwaway final products, destined to be repeated by a different group of juniors down the road.
 
-{% hint style="warning" %}
-Want to help improve SUTD together with us? Ping us on [telegram](https://t.me/weijinn)! Promise we won't bite.
+{% hint style="success" %}
+Want to help improve SUTD together with us?&#x20;
+
+Ping us on [telegram](https://t.me/weijinn)! We'll make it worth your while.
 {% endhint %}
 
-### Our Objectives
+## Our Values
 
 #### Transparency
 
-We want a system that optimises the allocation of project donations in a very transparent manner. AA-Aid intends to connect initiators (project managers, event organisers, fifth row leaders, etc) with supporters (literally anyone willing to contribute!). Instead of the traditional method of donating directly to the organisation and giving it free reign, supporters can now pick and choose the projects that they feel are worth supporting. High quality projects that provide value to the community would naturally rise to the top and hit their budget goals. This would then in turn incentivise higher quality initiatives.
+_Transparency underpins trust._
+
+The allocation of project donations and support must be done in a completely transparent manner. AA-Aid will connect project initiators (project managers, event organisers, fifth row leaders, etc) with supporters (literally anyone willing to contribute!).&#x20;
+
+Gone are the days that you simply donate a lump sum and leave the organisation to manage it. You can allocate your funds and support personally.
 
 #### Accountability
 
-Each initiative would be required to provide a breakdown of their budget and clear objectives that need to be met. Funds will only be released to the projects once they prove that these objectives are met. This provides transparency in how they will be spending the money, and also accountability in that they are unable to claim the funds and abandon the project. Even after it ends, if relevant, the initiative will be archived along with its various progress updates and the final product. Anyone would be able to access these files at any time, allowing for a continuous cycle of learning and building upon previous initiatives. Of course, not all projects would be work related. AA-Aid can also support community events such as funding a community outing (after Covid measures have subsided of course), or sponsoring new basketballs for the basketball fifth row. The best part is that if you don’t feel for any of these causes, you can simply choose not to participate in their funding!
+_Trust, but verify._
+
+Every project that seeks support must be held accountable to its supporters. This principle will be upheld through clear and simple processes on how funds may be disbursed and tracked. Project are held accountable by ensuring alignment in proposed activities with stated objectives and by ensuring project files are archived and accessible.

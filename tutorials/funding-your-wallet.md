@@ -1,13 +1,15 @@
 # Funding Your Wallet
 
-You will need some Ether to create a new transaction. Since we are using a test network, this means that the ETH is not real. There are faucets which provide free test ETH for you to play around with.&#x20;
+You will need some Ether to create a new transaction. Since we are using a test network, this means that the ETH is not real. There are faucets which provide free test ETH for you to play around with. Firstly, make sure that you are on the right network, we are currently running on Ropsten.
+
+![](<../.gitbook/assets/image (4).png>)
 
 The faucets are a bit finicky and might not always work, so try your luck with another if one doesn't work for you.
 
 ### [https://faucet.dimensions.network/](https://faucet.dimensions.network)
 
 1. Input your address and click on `Send Ropsten ETH` and complete the captcha&#x20;
-2. Wait a few minutes and you should be credited ETH in your account
+2. Wait a few minutes and you should be credited test ETH in your account
 
 ![](https://lh5.googleusercontent.com/BSrho1d2e0AkLL1Ubi4s691vclF21KfM2Fy4jlB3Z68ABz3Qf3e25A9X8ofCXhZPGczblZmCdhUFry9RJTLugYBwIhSJkl9X1\_8FI8uLP-DwNDSdPK5gZBt7oAWEQdQG6M\_u9Bem=s1600)
 
