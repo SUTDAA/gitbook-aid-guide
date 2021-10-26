@@ -11,7 +11,7 @@ When you donate to an initiative, the corresponding AID tokens will be assigned 
 Once the initiative fulfils their deliverables, the cash donation, together with the AID tokens, will be released to them. This transaction will be tracked on the blockchain, allowing it to be viewed and verified by anyone.
 
 {% hint style="info" %}
-There is a 10% from each donation which will contributed to the general SUTDAA fund in order to ensure there is sufficient operational revenue for initiatives.
+10% from each donation will be contributed to the general SUTDAA fund to ensure there is sufficient operational revenue for initiatives.
 {% endhint %}
 
 ### &#x20;Why wait to release the funds?
